@@ -1,0 +1,7 @@
+name: RanksInformation
+version: '1.0-SNAPSHOT'
+main: dev.limanoel.ranksInformation.RanksInformation
+api-version: '1.21'
+commands:
+  bewerben:
+    description: Schreibe /bewerben um zu sehen, welche Ränge es bei uns gibt und was du für diese können musst!
