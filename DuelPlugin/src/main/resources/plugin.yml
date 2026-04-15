@@ -1,0 +1,4 @@
+name: DuelPlugin
+version: '1.0-SNAPSHOT'
+main: dev.limanoel.duelPlugin.DuelPlugin
+api-version: '1.21'
