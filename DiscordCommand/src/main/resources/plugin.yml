@@ -1,0 +1,7 @@
+name: DiscordCommand
+version: '1.0-SNAPSHOT'
+main: dev.limanoel.discordCommand.DiscordCommand
+api-version: '1.21'
+commands:
+  discord:
+    description: Schreibe /discord, um einen Link zu unserem Discord zu erhalten!
