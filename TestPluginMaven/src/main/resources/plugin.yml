@@ -1,0 +1,12 @@
+name: TestPluginMaven
+version: '1.0-SNAPSHOT'
+main: dev.limanoel.testPluginMaven.TestPluginMaven
+api-version: '1.21'
+commands:
+  heal:
+    description: A Heal Command!
+  kick:
+    description: A Kick Command!
+  feed:
+    description: A Feed Command!
+
