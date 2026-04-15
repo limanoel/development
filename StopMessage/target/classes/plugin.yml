@@ -1,0 +1,7 @@
+name: StopMessage
+version: '1.0-SNAPSHOT'
+main: dev.limanoel.stopMessage.StopMessage
+api-version: '1.21'
+commands:
+  stopserver:
+    description: führe /stopserver aus und der Server, auf dem du dich aktuell aufhältst wird mit einem Countdown von 60 Sekunden gestoppt!
