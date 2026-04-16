@@ -1,0 +1,9 @@
+{
+    "name": "Eieruhr lite",
+    "short_name": "EL",
+    "theme_color": "#4c4f52",
+    "background_color": "#262626",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
